@@ -1,0 +1,90 @@
+.ic-premium {
+  background-image: url("./../Assets/premium.svg");
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  background-color: transparent;
+}
+
+.ic-home {
+  background-image: url("./../Assets/home.svg");
+  background-repeat: no-repeat;
+  width: 25px;
+  height: 25px;
+  background-color: transparent;
+}
+
+.ic-faq {
+  background-image: url("./../Assets/contact_support.svg");
+  background-repeat: no-repeat;
+  width: 25px;
+  height: 25px;
+  background-color: transparent;
+}
+
+.ic-flag-en {
+  background-image: url("./../Assets/flag-en.svg");
+  background-repeat: no-repeat;
+  width: 33px;
+  height: 25px;
+  background-color: transparent;
+}
+
+.ic-flag-id {
+  background-image: url("./../Assets/flag-id.svg");
+  background-repeat: no-repeat;
+  width: 33px;
+  height: 25px;
+  background-color: transparent;
+}
+
+.ic-dropdown {
+  background-image: url("./../Assets/dropdown.svg");
+  background-repeat: no-repeat;
+  width: 15px;
+  height: 15px;
+  background-color: transparent;
+}
+.ic-setting {
+  background-image: url("./../Assets/setting.svg");
+  background-repeat: no-repeat;
+  width: 26.8px;
+  height: 26.67px;
+  background-color: var(--bg-dark);
+}
+
+.ic-file {
+  background-image: url("./../Assets/file.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 90px;
+  height: 90px;
+  background-color: transparent;
+}
+
+.ic-note {
+  background-image: url("./../Assets/note.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 90px;
+  height: 90px;
+  background-color: transparent;
+}
+
+.ic-decrypt {
+  background-image: url("./../Assets/decrypt.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 90px;
+  height: 90px;
+  background-color: transparent;
+}
+
+.ic-cs {
+  background-image: url("./../Assets/support_agent.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 26.67px;
+  height: 24px;
+  background-color: transparent;
+}
